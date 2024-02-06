@@ -8,7 +8,7 @@
     }
 
 
-    class Ruta{
+    class Rut{
         static public function ctrRuta(){
             return "http://localhost:8080/C'MON/vista/recursos";
         }
