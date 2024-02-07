@@ -13,7 +13,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/1.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/2.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/3.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/4.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/5.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/6.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/7.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                         <img src="<?php echo $ruta . "/" ?>img/8.jpg" alt="Image">
                     </div>
                     <div class="team-social">
-                        <img src="<?php echo $ruta . "/" ?>img/icon.ico" alt="">
+                        <img src="<?php echo $ruta . "/" ?>img/chat.svg" alt="">
                     </div>
                 </div>
             </div>

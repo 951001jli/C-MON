@@ -19,6 +19,9 @@
                         <p>
                             VENTA DE REFACCIONES: Busca por modelo, año y marca refacciones que necesites para tu bestia.
                         </p>
+                        <p>
+                           REPARTO DE GASOLINA: ¿Te quedaste sin gasolina? Nosotros te la llevamos, solicitala en tu <a href="index.php?pagina=login"> cuenta C'MON. </a>
+                        </p>
                     </div>
                 </div>
             </div>

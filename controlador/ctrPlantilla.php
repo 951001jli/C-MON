@@ -8,9 +8,10 @@
     }
 
 
+
     class Rut{
         static public function ctrRuta(){
-            return "http://localhost:8080/C'MON/vista/recursos";
+            return "http://localhost:8080/C-MON/vista/recursos";
         }
     }
 ?>
