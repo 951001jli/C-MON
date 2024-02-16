@@ -1,5 +1,5 @@
 <header class="header-galeria"></header>
-<!-- Teams Starts- -->
+<!-- Team Start -->
 <div class="team">
     <div class="container">
         <div class="section-header text-center">
