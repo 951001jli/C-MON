@@ -17,6 +17,7 @@
                     </div>
                 </div>
             </div>
+            
             <div class="col-lg-4 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
