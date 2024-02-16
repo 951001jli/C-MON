@@ -1,5 +1,5 @@
 <header class="header-galeria"></header>
-<!-- Team Start -->
+<!-- Team Starts -->
 <div class="team">
     <div class="container">
         <div class="section-header text-center">
@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-lg-4 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
